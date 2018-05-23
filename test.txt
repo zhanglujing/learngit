@@ -1,2 +1,0 @@
-this is a test file.
-测试git的删除文件功能。
